@@ -1,0 +1,14 @@
+.bottone {
+    background-color: #FF0000;
+    color: #FFFFFF;
+    font-size: 24px;
+    padding: 10px;
+    border-radius: 20px; /* Questo rende i bordi arrotondati */
+    border: none; /* Rimuove il bordo predefinito */
+    cursor: pointer; /* Cambia il cursore quando ci si passa sopra */
+  }
+  
+  .bottone:hover {
+    opacity: 0.8; /* Opacità ridotta al passaggio del mouse */
+  }
+  
